@@ -1,0 +1,30 @@
+h2{
+  color:#16697A;
+  font-family: 'Pacifico', cursive;
+
+  }
+body{
+  background:#bce6eb;
+}
+.mid{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.foto{
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 30px;
+}
+.card{
+  padding-bottom: 20px;
+}
+p{
+  font-family: 'Indie Flower', cursive;
+}
+.bday{
+  font-family: 'Luckiest Guy', cursive;
+}
+h5{
+  font-family: 'Rock Salt', cursive;
+}
